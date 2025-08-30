@@ -1,6 +1,6 @@
 # week07/.github/workflows/backend_ci.yml
 
-# Backend CI Test with proper credentials
+# Backend CI Test
 
 name: Backend CI - Test, Build and Push Images to ACR
 
